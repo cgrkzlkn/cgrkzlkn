@@ -1,28 +1,29 @@
 ## Hey 👋, I'm Cagri Kizilkan  
   
-
-<a href="https://github.com/cgrkzlkn" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 <a href="https://twitter.com/cgrkzlkn" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 <a href="https://linkedin.com/in/cgrkzlkn" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://codepen.com/cgrkzlkn" target="_blank">
-<img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
 </a>  
-  
 
+<a href="https://fiverr.com/cgrkzlkn" target="_blank">
+<img src="https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
+</a>  
 
+<a href="https://www.upwork.com/freelancers/~01542dd9d91c7a0a49">
+<img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"/>
+</a>  
 
 ### I'm a Front-End Web Developer  
-- I am a Computer Engineer specialized in Front-End Web Development. 
+- I'm a Computer Engineer specialized in Front-End Web Development. 
 
-- I am a Full-Time Freelancer on [Fiverr](https://fiverr.com/cgrkzlkn) and [Upwork](https://www.upwork.com/freelancers/~01542dd9d91c7a0a49).
+- I'm a Full-Time Freelancer on Fiverr and Upwork.
   
-- Currently I am completing Frontend Mentor challenges, and posting useful content on Twitter.
+- I'm currently completing Frontend Mentor challenges, and posting useful content on Twitter.
 
 <br/>  
 

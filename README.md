@@ -27,24 +27,36 @@
 <br/>  
 
 <div align="left">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/html5.svg" />
+</a>  
+
+<a href="https://www.w3schools.com/css/" target="_blank">
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/css3.svg" />
+</a>  
+
+<a href="https://www.javascript.com/" target="_blank">
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/javascript.svg" />
+</a>  
+
+<a href="https://jquery.com/" target="_blank">
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/jquery.svg" />
+</a>  
 </div>  
 
 <br/>  
 
-<table><tr><td valign="top" width="50%">
-
+<table>
+<tr>
+<td valign="top" width="50%">
 <img src="https://github-readme-stats.vercel.app/api?username=cgrkzlkn&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
+</td>
+<td valign="top" width="50%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cgrkzlkn&hide_border=true&layout=compact" align="left" style="width: 100%" />
+</td>
+</tr>
+</table>
 
-</td></tr></table>
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<a href="https://www.buymeacoffee.com/cgrkzlkn" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>

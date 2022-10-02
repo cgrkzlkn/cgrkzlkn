@@ -22,7 +22,7 @@
 
 - I am a Full-Time Freelancer on [Fiverr](https://fiverr.com/cgrkzlkn) and [Upwork](https://www.upwork.com/freelancers/~01542dd9d91c7a0a49).
   
-  
+- Currently I am completing Frontend Mentor challenges, and posting useful content on Twitter.
 
 <br/>  
 

@@ -23,7 +23,7 @@
 
 - I'm a Full-Time Freelancer on Fiverr and Upwork.
   
-- I'm currently completing Frontend Mentor challenges, and posting useful content on Twitter.
+- I'm currently completing Frontend Mentor challenges, sharing my coding knowledge on Twitter, and creating pens on Codepen.
 
 <br/>  
 

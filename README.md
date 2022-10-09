@@ -28,21 +28,13 @@
 <br/>  
 
 <div align="left">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/html5.svg" />
-</a>  
+<img height="32" width="32" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain-wordmark.svg" />
 
-<a href="https://www.w3schools.com/css/" target="_blank">
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/css3.svg" />
-</a>  
+<img height="32" width="32" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain-wordmark.svg" />
 
-<a href="https://www.javascript.com/" target="_blank">
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/javascript.svg" />
-</a>  
+<img height="32" width="32" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" />
 
-<a href="https://jquery.com/" target="_blank">
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/jquery.svg" />
-</a>  
+<img height="32" width="32" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jquery/jquery-plain-wordmark.svg" />
 </div>  
 
 <br/>  

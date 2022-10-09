@@ -32,4 +32,5 @@
 
 <br />
 
-<a href="https://www.buymeacoffee.com/cgrkzlkn" target="_blank"><img src="https://www.dropbox.com/s/xyeaz948mcv3iz8/bmc-button.png?raw=1" alt="Buy Me A Coffee" width="174"></a>
+[<img width="150" src="https://www.dropbox.com/s/xyeaz948mcv3iz8/bmc-button.png?raw=1">](https://www.buymeacoffee.com/cgrkzlkn)
+

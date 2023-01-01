@@ -26,7 +26,3 @@
 <br/>  
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cgrkzlkn&layout=compact" />
-
-<br/>
-
-[<img width="150" src="https://www.dropbox.com/s/xyeaz948mcv3iz8/bmc-button.png?raw=1">](https://www.buymeacoffee.com/cgrkzlkn)
